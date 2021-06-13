@@ -20,6 +20,8 @@ limitations under the License.
 
 # Symbol
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > [Symbol][mdn-symbol] factory.
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
@@ -165,6 +167,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/symbol-ctor.svg
+[npm-url]: https://npmjs.org/package/@stdlib/symbol-ctor
+
+[test-image]: https://github.com/stdlib-js/symbol-ctor/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/symbol-ctor/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/symbol-ctor/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/symbol-ctor?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/symbol-ctor
+[dependencies-url]: https://david-dm.org/stdlib-js/symbol-ctor/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
