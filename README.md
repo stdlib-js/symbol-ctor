@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/symbol-ctor/tags). For example,
+
+```javascript
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@v0.1.1-deno/mod.js';
 ```
 
@@ -104,7 +109,7 @@ var s = Symbol( 'beep' );
 
 ```javascript
 import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@deno/mod.js';
-import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@v0.1.1-deno/mod.js';
+import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@deno/mod.js';
 
 var s;
 
