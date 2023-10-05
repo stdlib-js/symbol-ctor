@@ -38,8 +38,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@stdlib/assert-has-symbol-support": "^0.1.0",
-    "@stdlib/assert-is-symbol": "^0.1.0",
+    "@stdlib/assert-has-symbol-support": "^0.1.1",
+    "@stdlib/assert-is-symbol": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
