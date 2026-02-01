@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@esm/index.mjs';
+import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@v0.2.3-esm/index.mjs';
 ```
 
 #### Symbol( \[description] )
@@ -109,7 +109,7 @@ var s = Symbol( 'beep' );
 <script type="module">
 
 import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@esm/index.mjs';
-import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@esm/index.mjs';
+import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@v0.2.3-esm/index.mjs';
 
 var s;
 
