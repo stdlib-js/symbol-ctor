@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-04)
+## Unreleased (2026-08-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1e30505`](https://github.com/stdlib-js/stdlib/commit/1e3050522c1c0e4c6c5d97ce31aba3a2088cf186) - **chore:** resolve lint errors _(by Athan Reines)_
 -   [`53fb242`](https://github.com/stdlib-js/stdlib/commit/53fb24251d7be54ea7424b60a991f5eaf96fe32a) - **bench:** refactor to use string interpolation in `symbol/ctor` [(#10555)](https://github.com/stdlib-js/stdlib/pull/10555) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Vishal Gaikwad
 
 </section>
